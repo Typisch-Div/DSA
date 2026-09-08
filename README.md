@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Typisch-Div/DSA/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -150,4 +152,8 @@
 | [3870-count-commas-in-range](https://github.com/Typisch-Div/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Typisch-Div/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Typisch-Div/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
