@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Typisch-Div/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Typisch-Div/DSA/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Typisch-Div/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
