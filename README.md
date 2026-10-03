@@ -40,6 +40,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/Typisch-Div/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Typisch-Div/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Typisch-Div/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Typisch-Div/DSA/tree/master/1652-defuse-the-bomb) |
@@ -179,4 +180,5 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Typisch-Div/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Typisch-Div/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Typisch-Div/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Typisch-Div/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
