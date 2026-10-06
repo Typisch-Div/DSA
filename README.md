@@ -49,6 +49,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Typisch-Div/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Typisch-Div/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Typisch-Div/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/Typisch-Div/DSA/tree/master/1652-defuse-the-bomb) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Typisch-Div/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Typisch-Div/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -196,6 +197,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Typisch-Div/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Typisch-Div/DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Typisch-Div/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Typisch-Div/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Newton's Method
 |  |
 | ------- |
