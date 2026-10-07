@@ -190,6 +190,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Typisch-Div/DSA/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/Typisch-Div/DSA/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Typisch-Div/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Typisch-Div/DSA/tree/master/3871-count-commas-in-range-ii) |
