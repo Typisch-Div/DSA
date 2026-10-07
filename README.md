@@ -21,6 +21,7 @@
 | [0076-minimum-window-substring](https://github.com/Typisch-Div/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Typisch-Div/DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Typisch-Div/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -225,4 +226,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Typisch-Div/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Typisch-Div/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
