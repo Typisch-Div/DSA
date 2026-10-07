@@ -21,6 +21,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Typisch-Div/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Typisch-Div/DSA/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Typisch-Div/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Typisch-Div/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Typisch-Div/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -214,4 +216,5 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
