@@ -31,6 +31,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Typisch-Div/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -98,6 +99,7 @@
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -214,6 +216,7 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
@@ -238,6 +241,7 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
