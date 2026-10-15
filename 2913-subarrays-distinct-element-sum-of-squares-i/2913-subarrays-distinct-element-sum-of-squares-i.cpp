@@ -1,15 +1,24 @@
+
 class Solution {
 public:
     int sumCounts(vector<int>& nums) {
-        int ans=0;
-        for(int i=0;i<nums.size();i++){
-            set<int>st;
-            for(int j=i;j<nums.size();j++){
-                st.insert(nums[j]);
-                ans+=st.size()*st.size();
+        int n = nums.size();
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+            unordered_map<int, int> freq;
+            int distinct = 0;
+
+            for (int j = i; j < n; j++) {
+                if (freq[nums[j]] == 0) {
+                    distinct++;
+                }
+
+                freq[nums[j]]++;
+                ans += distinct * distinct;
             }
         }
-        return ans;
 
+        return ans;
     }
 };
