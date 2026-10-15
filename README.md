@@ -17,6 +17,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -73,6 +74,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Typisch-Div/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/Typisch-Div/DSA/tree/master/1652-defuse-the-bomb) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Typisch-Div/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Typisch-Div/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Typisch-Div/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
@@ -291,4 +293,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Typisch-Div/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
