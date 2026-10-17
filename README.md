@@ -19,6 +19,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [1652-defuse-the-bomb](https://github.com/Typisch-Div/DSA/tree/master/1652-defuse-the-bomb) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Typisch-Div/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Typisch-Div/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Typisch-Div/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
@@ -94,6 +96,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
