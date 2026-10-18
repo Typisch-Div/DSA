@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Typisch-Div/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Typisch-Div/DSA/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Typisch-Div/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Typisch-Div/DSA/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Typisch-Div/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Typisch-Div/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -216,6 +218,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Typisch-Div/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Typisch-Div/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Typisch-Div/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0876-middle-of-the-linked-list) |
