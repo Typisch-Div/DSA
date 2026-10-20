@@ -270,6 +270,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Typisch-Div/DSA/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Typisch-Div/DSA/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -390,6 +391,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Typisch-Div/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Typisch-Div/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
