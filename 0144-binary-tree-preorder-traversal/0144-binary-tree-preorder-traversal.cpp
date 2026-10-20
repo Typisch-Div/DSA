@@ -12,10 +12,28 @@
 class Solution {
 public:
     void preorderTraversal(TreeNode* root, vector<int>&ans){
-        if(root==nullptr)   return;
-        ans.push_back(root->val);
-        preorderTraversal(root->left,ans);
-        preorderTraversal(root->right,ans);
+        if (root == nullptr)
+            return;
+        TreeNode* cur = root;
+        while (cur) {
+            if (!cur->left) {
+                ans.push_back(cur->val);
+                cur = cur->right;
+            } else {
+                TreeNode* pred = cur->left;
+                while (pred->right != nullptr && pred->right != cur) {
+                    pred = pred->right;
+                }
+                if (pred->right != cur) {
+                    pred->right = cur;
+                    ans.push_back(cur->val);
+                    cur = cur->left;
+                } else {
+                    pred->right = nullptr;
+                    cur = cur->right;
+                }
+            }
+        }
     }
     vector<int> preorderTraversal(TreeNode* root ) {
         vector<int>ans;
