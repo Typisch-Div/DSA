@@ -261,6 +261,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Typisch-Div/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Typisch-Div/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -292,6 +293,7 @@
 | [0013-roman-to-integer](https://github.com/Typisch-Div/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Typisch-Div/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Typisch-Div/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Typisch-Div/DSA/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Typisch-Div/DSA/tree/master/3870-count-commas-in-range) |
@@ -389,6 +391,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Typisch-Div/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
