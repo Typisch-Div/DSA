@@ -23,6 +23,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -62,6 +63,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
@@ -90,6 +92,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Typisch-Div/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Typisch-Div/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Typisch-Div/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/Typisch-Div/DSA/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Typisch-Div/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Typisch-Div/DSA/tree/master/1920-build-array-from-permutation) |
@@ -308,6 +311,7 @@
 | [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Typisch-Div/DSA/tree/master/0507-perfect-number) |
+| [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Typisch-Div/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Typisch-Div/DSA/tree/master/3871-count-commas-in-range-ii) |
