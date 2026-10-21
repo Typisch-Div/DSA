@@ -125,6 +125,7 @@
 | [0035-search-insert-position](https://github.com/Typisch-Div/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Typisch-Div/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Typisch-Div/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Typisch-Div/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Typisch-Div/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
@@ -645,6 +646,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Typisch-Div/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Typisch-Div/DSA/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
