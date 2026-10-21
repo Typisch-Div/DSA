@@ -75,6 +75,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Typisch-Div/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Typisch-Div/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -494,6 +495,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Typisch-Div/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
