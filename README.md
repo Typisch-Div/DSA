@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Typisch-Div/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Typisch-Div/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Typisch-Div/DSA/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Typisch-Div/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Typisch-Div/DSA/tree/master/0076-minimum-window-substring) |
@@ -96,6 +97,7 @@
 | [0035-search-insert-position](https://github.com/Typisch-Div/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Typisch-Div/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Typisch-Div/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Typisch-Div/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
