@@ -92,6 +92,7 @@
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Typisch-Div/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Typisch-Div/DSA/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/Typisch-Div/DSA/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Typisch-Div/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
