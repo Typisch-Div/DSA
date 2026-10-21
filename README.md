@@ -135,6 +135,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Typisch-Div/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Typisch-Div/DSA/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/Typisch-Div/DSA/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -329,6 +330,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Linked List
 |  |
 | ------- |
@@ -399,6 +401,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Typisch-Div/DSA/tree/master/0743-network-delay-time) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -479,6 +482,7 @@
 | [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Typisch-Div/DSA/tree/master/0134-gas-station) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
