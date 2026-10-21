@@ -86,6 +86,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Typisch-Div/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Typisch-Div/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Typisch-Div/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2315-count-asterisks](https://github.com/Typisch-Div/DSA/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Typisch-Div/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Typisch-Div/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
