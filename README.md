@@ -86,6 +86,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Typisch-Div/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Typisch-Div/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Typisch-Div/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Typisch-Div/DSA/tree/master/0057-insert-interval) |
@@ -488,4 +489,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Typisch-Div/DSA/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
