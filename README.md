@@ -172,6 +172,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/Typisch-Div/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Typisch-Div/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
+| [2574-left-and-right-sum-differences](https://github.com/Typisch-Div/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Typisch-Div/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -213,6 +214,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Typisch-Div/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Typisch-Div/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Typisch-Div/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2574-left-and-right-sum-differences](https://github.com/Typisch-Div/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
 |  |
 | ------- |
