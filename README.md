@@ -145,6 +145,7 @@
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Typisch-Div/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Typisch-Div/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Typisch-Div/DSA/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Typisch-Div/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -210,6 +211,7 @@
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Typisch-Div/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Typisch-Div/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Typisch-Div/DSA/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -738,4 +740,8 @@
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Typisch-Div/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
