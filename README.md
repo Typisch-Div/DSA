@@ -94,6 +94,7 @@
 | [0035-search-insert-position](https://github.com/Typisch-Div/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Typisch-Div/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Typisch-Div/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Typisch-Div/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Typisch-Div/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Typisch-Div/DSA/tree/master/0070-climbing-stairs) |
@@ -418,6 +420,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Typisch-Div/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Typisch-Div/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
