@@ -91,6 +91,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Typisch-Div/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Typisch-Div/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
+| [2942-find-words-containing-character](https://github.com/Typisch-Div/DSA/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Typisch-Div/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
@@ -175,6 +176,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Typisch-Div/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Typisch-Div/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/Typisch-Div/DSA/tree/master/2942-find-words-containing-character) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Typisch-Div/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Typisch-Div/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
