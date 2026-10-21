@@ -312,6 +312,7 @@
 | [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Typisch-Div/DSA/tree/master/0507-perfect-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Typisch-Div/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2469-convert-the-temperature](https://github.com/Typisch-Div/DSA/tree/master/2469-convert-the-temperature) |
