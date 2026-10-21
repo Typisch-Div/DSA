@@ -14,6 +14,7 @@
 | [0141-linked-list-cycle](https://github.com/Typisch-Div/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Typisch-Div/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Typisch-Div/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Typisch-Div/DSA/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -252,6 +253,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Typisch-Div/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Typisch-Div/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Typisch-Div/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -295,6 +297,7 @@
 | [0013-roman-to-integer](https://github.com/Typisch-Div/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Typisch-Div/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Typisch-Div/DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Typisch-Div/DSA/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -400,6 +403,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Typisch-Div/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Typisch-Div/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 ## Z Algorithm
 |  |
 | ------- |
