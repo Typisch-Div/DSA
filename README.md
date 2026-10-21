@@ -90,6 +90,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Typisch-Div/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/Typisch-Div/DSA/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Typisch-Div/DSA/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Typisch-Div/DSA/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Typisch-Div/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Typisch-Div/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -429,4 +430,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Typisch-Div/DSA/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
