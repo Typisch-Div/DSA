@@ -37,6 +37,7 @@
 | [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
 | [1763-longest-nice-substring](https://github.com/Typisch-Div/DSA/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Typisch-Div/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -79,6 +80,7 @@
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Typisch-Div/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1763-longest-nice-substring](https://github.com/Typisch-Div/DSA/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Typisch-Div/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Typisch-Div/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Typisch-Div/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -98,6 +100,7 @@
 | [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Typisch-Div/DSA/tree/master/1603-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Typisch-Div/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Array
 |  |
 | ------- |
