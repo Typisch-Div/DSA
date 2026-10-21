@@ -165,6 +165,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Typisch-Div/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Typisch-Div/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Typisch-Div/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2239-find-closest-number-to-zero](https://github.com/Typisch-Div/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Typisch-Div/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
