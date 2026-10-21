@@ -53,6 +53,7 @@
 | [0072-edit-distance](https://github.com/Typisch-Div/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Typisch-Div/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Typisch-Div/DSA/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Typisch-Div/DSA/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
@@ -297,6 +298,7 @@
 | [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Typisch-Div/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Typisch-Div/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Typisch-Div/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Typisch-Div/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
