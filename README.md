@@ -57,6 +57,7 @@
 | [0115-distinct-subsequences](https://github.com/Typisch-Div/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Typisch-Div/DSA/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Typisch-Div/DSA/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
@@ -117,6 +118,7 @@
 | [0134-gas-station](https://github.com/Typisch-Div/DSA/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Typisch-Div/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Typisch-Div/DSA/tree/master/0162-find-peak-element) |
+| [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Typisch-Div/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -422,6 +424,7 @@
 | [0036-valid-sudoku](https://github.com/Typisch-Div/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Typisch-Div/DSA/tree/master/1672-richest-customer-wealth) |
 ## Bracket Sequences
@@ -470,6 +473,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Typisch-Div/DSA/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -568,6 +572,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 ## Graph Theory
 |  |
 | ------- |
