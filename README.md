@@ -114,6 +114,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Typisch-Div/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Typisch-Div/DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Typisch-Div/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Typisch-Div/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Typisch-Div/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -298,6 +299,7 @@
 | [0072-edit-distance](https://github.com/Typisch-Div/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Typisch-Div/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
