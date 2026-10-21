@@ -46,6 +46,7 @@
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Typisch-Div/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Typisch-Div/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -246,6 +247,7 @@
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Typisch-Div/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Typisch-Div/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
