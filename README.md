@@ -128,6 +128,7 @@
 | [0040-combination-sum-ii](https://github.com/Typisch-Div/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Typisch-Div/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Typisch-Div/DSA/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/Typisch-Div/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
@@ -203,6 +204,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Typisch-Div/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Typisch-Div/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Typisch-Div/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -647,6 +649,7 @@
 | [0022-generate-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Typisch-Div/DSA/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Typisch-Div/DSA/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
