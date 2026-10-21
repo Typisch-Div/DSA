@@ -125,6 +125,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Typisch-Div/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Typisch-Div/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -322,6 +323,7 @@
 | [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -579,6 +581,7 @@
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -636,4 +639,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Typisch-Div/DSA/tree/master/0146-lru-cache) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
