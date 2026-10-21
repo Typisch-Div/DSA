@@ -96,6 +96,7 @@
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Typisch-Div/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Typisch-Div/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Typisch-Div/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Typisch-Div/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -416,6 +418,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Typisch-Div/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
