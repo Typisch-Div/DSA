@@ -38,6 +38,7 @@
 | [1763-longest-nice-substring](https://github.com/Typisch-Div/DSA/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Typisch-Div/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -89,6 +90,7 @@
 | [2315-count-asterisks](https://github.com/Typisch-Div/DSA/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Typisch-Div/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Typisch-Div/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Typisch-Div/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Typisch-Div/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
@@ -169,6 +171,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/Typisch-Div/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2239-find-closest-number-to-zero](https://github.com/Typisch-Div/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Typisch-Div/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Typisch-Div/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -201,6 +204,7 @@
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Typisch-Div/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
