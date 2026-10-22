@@ -180,6 +180,7 @@
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Typisch-Div/DSA/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/Typisch-Div/DSA/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Typisch-Div/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -425,6 +426,7 @@
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Typisch-Div/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
 ## Linked List
 |  |
@@ -554,6 +556,7 @@
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Typisch-Div/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0931-minimum-falling-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/Typisch-Div/DSA/tree/master/1672-richest-customer-wealth) |
 ## Bracket Sequences
 |  |
