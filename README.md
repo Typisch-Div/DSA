@@ -151,6 +151,7 @@
 | [0274-h-index](https://github.com/Typisch-Div/DSA/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Typisch-Div/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Typisch-Div/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -372,6 +373,7 @@
 | [0207-course-schedule](https://github.com/Typisch-Div/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Typisch-Div/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Typisch-Div/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -398,6 +400,7 @@
 | [0213-house-robber-ii](https://github.com/Typisch-Div/DSA/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Typisch-Div/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Typisch-Div/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Typisch-Div/DSA/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
@@ -761,6 +764,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Typisch-Div/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -783,4 +787,8 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Typisch-Div/DSA/tree/master/0684-redundant-connection) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Typisch-Div/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
