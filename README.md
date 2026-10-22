@@ -32,6 +32,7 @@
 | [0525-contiguous-array](https://github.com/Typisch-Div/DSA/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Typisch-Div/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -79,6 +80,7 @@
 | [0443-string-compression](https://github.com/Typisch-Div/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Typisch-Div/DSA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Typisch-Div/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -459,6 +461,7 @@
 | [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Typisch-Div/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Typisch-Div/DSA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Typisch-Div/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Typisch-Div/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -584,6 +587,7 @@
 | [0134-gas-station](https://github.com/Typisch-Div/DSA/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Typisch-Div/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
