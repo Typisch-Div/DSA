@@ -81,6 +81,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Typisch-Div/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Typisch-Div/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
@@ -493,6 +494,7 @@
 | [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Typisch-Div/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Typisch-Div/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Typisch-Div/DSA/tree/master/0567-permutation-in-string) |
