@@ -54,6 +54,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Typisch-Div/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Typisch-Div/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Typisch-Div/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Typisch-Div/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Typisch-Div/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Typisch-Div/DSA/tree/master/0014-longest-common-prefix) |
@@ -413,6 +414,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Typisch-Div/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Typisch-Div/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Typisch-Div/DSA/tree/master/0044-wildcard-matching) |
@@ -496,6 +498,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Typisch-Div/DSA/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Typisch-Div/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Typisch-Div/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Typisch-Div/DSA/tree/master/0044-wildcard-matching) |
