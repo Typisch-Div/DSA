@@ -39,6 +39,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Typisch-Div/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1763-longest-nice-substring](https://github.com/Typisch-Div/DSA/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Typisch-Div/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -88,6 +89,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Typisch-Div/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Typisch-Div/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1763-longest-nice-substring](https://github.com/Typisch-Div/DSA/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -117,6 +119,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Typisch-Div/DSA/tree/master/1603-design-parking-system) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Typisch-Div/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Typisch-Div/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Typisch-Div/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Array
@@ -236,6 +239,7 @@
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Typisch-Div/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Typisch-Div/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Typisch-Div/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
