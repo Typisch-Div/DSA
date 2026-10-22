@@ -319,6 +319,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Typisch-Div/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Typisch-Div/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Typisch-Div/DSA/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0965-univalued-binary-tree) |
@@ -374,6 +375,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Typisch-Div/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Typisch-Div/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Typisch-Div/DSA/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0965-univalued-binary-tree) |
@@ -703,6 +705,7 @@
 | [0207-course-schedule](https://github.com/Typisch-Div/DSA/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/Typisch-Div/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Typisch-Div/DSA/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
@@ -776,4 +779,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Typisch-Div/DSA/tree/master/0523-continuous-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Typisch-Div/DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
