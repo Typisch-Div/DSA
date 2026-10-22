@@ -146,6 +146,7 @@
 | [0090-subsets-ii](https://github.com/Typisch-Div/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/Typisch-Div/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Typisch-Div/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Typisch-Div/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Typisch-Div/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -408,6 +409,7 @@
 | [0070-climbing-stairs](https://github.com/Typisch-Div/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Typisch-Div/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Typisch-Div/DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Typisch-Div/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Typisch-Div/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Typisch-Div/DSA/tree/master/0213-house-robber-ii) |
