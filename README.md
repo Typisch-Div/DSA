@@ -142,6 +142,7 @@
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Typisch-Div/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Typisch-Div/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Typisch-Div/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Typisch-Div/DSA/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Typisch-Div/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Typisch-Div/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -417,6 +419,7 @@
 | [0010-regular-expression-matching](https://github.com/Typisch-Div/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Typisch-Div/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Typisch-Div/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Typisch-Div/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
@@ -478,6 +481,7 @@
 | [0011-container-with-most-water](https://github.com/Typisch-Div/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Typisch-Div/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Typisch-Div/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Typisch-Div/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Typisch-Div/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Typisch-Div/DSA/tree/master/0141-linked-list-cycle) |
@@ -782,6 +786,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Typisch-Div/DSA/tree/master/0042-trapping-rain-water) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 ## Tournament Sort
 |  |
