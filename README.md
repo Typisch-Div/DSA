@@ -526,6 +526,7 @@
 | [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Typisch-Div/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Typisch-Div/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0670-maximum-swap](https://github.com/Typisch-Div/DSA/tree/master/0670-maximum-swap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Typisch-Div/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Typisch-Div/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
@@ -591,6 +592,7 @@
 | [0134-gas-station](https://github.com/Typisch-Div/DSA/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Typisch-Div/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0670-maximum-swap](https://github.com/Typisch-Div/DSA/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Typisch-Div/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
