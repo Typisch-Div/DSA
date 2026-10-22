@@ -63,6 +63,7 @@
 | [0044-wildcard-matching](https://github.com/Typisch-Div/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Typisch-Div/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Typisch-Div/DSA/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Typisch-Div/DSA/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Typisch-Div/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Typisch-Div/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
@@ -142,6 +143,7 @@
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Typisch-Div/DSA/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/Typisch-Div/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Typisch-Div/DSA/tree/master/0090-subsets-ii) |
@@ -712,6 +714,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Typisch-Div/DSA/tree/master/0068-text-justification) |
 | [1603-design-parking-system](https://github.com/Typisch-Div/DSA/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Typisch-Div/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Typisch-Div/DSA/tree/master/1920-build-array-from-permutation) |
