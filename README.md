@@ -80,6 +80,7 @@
 | [0443-string-compression](https://github.com/Typisch-Div/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Typisch-Div/DSA/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Typisch-Div/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Typisch-Div/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -259,6 +260,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Typisch-Div/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Typisch-Div/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -415,6 +417,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Typisch-Div/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Typisch-Div/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Typisch-Div/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
 ## Linked List
@@ -551,6 +554,7 @@
 | [0020-valid-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Typisch-Div/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Typisch-Div/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -587,6 +591,7 @@
 | [0134-gas-station](https://github.com/Typisch-Div/DSA/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Typisch-Div/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0678-valid-parenthesis-string](https://github.com/Typisch-Div/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
