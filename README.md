@@ -156,6 +156,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Typisch-Div/DSA/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Typisch-Div/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Typisch-Div/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Typisch-Div/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -405,6 +406,7 @@
 | [0337-house-robber-iii](https://github.com/Typisch-Div/DSA/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Typisch-Div/DSA/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Typisch-Div/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
@@ -765,10 +767,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Typisch-Div/DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Typisch-Div/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Typisch-Div/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 ## DP on Trees
 |  |
