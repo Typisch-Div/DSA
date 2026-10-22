@@ -71,6 +71,7 @@
 | [0165-compare-version-numbers](https://github.com/Typisch-Div/DSA/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Typisch-Div/DSA/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Typisch-Div/DSA/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Typisch-Div/DSA/tree/master/0344-reverse-string) |
@@ -624,12 +625,14 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Typisch-Div/DSA/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/Typisch-Div/DSA/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Typisch-Div/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Typisch-Div/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/Typisch-Div/DSA/tree/master/0214-shortest-palindrome) |
 ## Database
 |  |
 | ------- |
@@ -684,10 +687,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Typisch-Div/DSA/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Typisch-Div/DSA/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -827,4 +832,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Typisch-Div/DSA/tree/master/0322-coin-change) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Typisch-Div/DSA/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Typisch-Div/DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
