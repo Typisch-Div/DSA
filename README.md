@@ -192,6 +192,7 @@
 | [0704-binary-search](https://github.com/Typisch-Div/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Typisch-Div/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Typisch-Div/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/Typisch-Div/DSA/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -500,6 +501,7 @@
 | [0567-permutation-in-string](https://github.com/Typisch-Div/DSA/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Typisch-Div/DSA/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
+| [0832-flipping-an-image](https://github.com/Typisch-Div/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Typisch-Div/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Typisch-Div/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -586,6 +588,7 @@
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Typisch-Div/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0832-flipping-an-image](https://github.com/Typisch-Div/DSA/tree/master/0832-flipping-an-image) |
 | [0931-minimum-falling-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/Typisch-Div/DSA/tree/master/1672-richest-customer-wealth) |
 ## Bracket Sequences
@@ -700,6 +703,7 @@
 | [0191-number-of-1-bits](https://github.com/Typisch-Div/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Typisch-Div/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
+| [0832-flipping-an-image](https://github.com/Typisch-Div/DSA/tree/master/0832-flipping-an-image) |
 | [1763-longest-nice-substring](https://github.com/Typisch-Div/DSA/tree/master/1763-longest-nice-substring) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Typisch-Div/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Floyd's Cycle Finding Algorithm
@@ -738,6 +742,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Typisch-Div/DSA/tree/master/0068-text-justification) |
+| [0832-flipping-an-image](https://github.com/Typisch-Div/DSA/tree/master/0832-flipping-an-image) |
 | [1603-design-parking-system](https://github.com/Typisch-Div/DSA/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Typisch-Div/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Typisch-Div/DSA/tree/master/1920-build-array-from-permutation) |
