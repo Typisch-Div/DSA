@@ -99,6 +99,7 @@
 | [0796-rotate-string](https://github.com/Typisch-Div/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Typisch-Div/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Typisch-Div/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -466,6 +467,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
+| [1143-longest-common-subsequence](https://github.com/Typisch-Div/DSA/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -915,4 +917,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Typisch-Div/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Typisch-Div/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
