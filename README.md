@@ -204,6 +204,7 @@
 | [0875-koko-eating-bananas](https://github.com/Typisch-Div/DSA/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/Typisch-Div/DSA/tree/master/0941-valid-mountain-array) |
+| [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Typisch-Div/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Typisch-Div/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -511,6 +512,7 @@
 | [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Typisch-Div/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
 | [2000-reverse-prefix-of-word](https://github.com/Typisch-Div/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Typisch-Div/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -896,4 +898,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Typisch-Div/DSA/tree/master/0149-max-points-on-a-line) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
