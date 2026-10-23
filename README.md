@@ -225,6 +225,7 @@
 | [1652-defuse-the-bomb](https://github.com/Typisch-Div/DSA/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Typisch-Div/DSA/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Typisch-Div/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Typisch-Div/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1920-build-array-from-permutation](https://github.com/Typisch-Div/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Typisch-Div/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Typisch-Div/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -671,6 +672,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Typisch-Div/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Typisch-Div/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
