@@ -26,6 +26,7 @@
 | [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Typisch-Div/DSA/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Typisch-Div/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Typisch-Div/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -183,6 +184,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Typisch-Div/DSA/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Typisch-Div/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/Typisch-Div/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Typisch-Div/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Typisch-Div/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -578,6 +580,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Typisch-Div/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Typisch-Div/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Typisch-Div/DSA/tree/master/0231-power-of-two) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Typisch-Div/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0507-perfect-number](https://github.com/Typisch-Div/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Typisch-Div/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/Typisch-Div/DSA/tree/master/0670-maximum-swap) |
@@ -752,6 +755,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Typisch-Div/DSA/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Typisch-Div/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/Typisch-Div/DSA/tree/master/0622-design-circular-queue) |
 | [1603-design-parking-system](https://github.com/Typisch-Div/DSA/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -907,4 +911,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Typisch-Div/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
