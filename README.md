@@ -190,6 +190,7 @@
 | [0377-combination-sum-iv](https://github.com/Typisch-Div/DSA/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Typisch-Div/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/Typisch-Div/DSA/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/Typisch-Div/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/Typisch-Div/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Typisch-Div/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Typisch-Div/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -268,6 +269,7 @@
 | [0274-h-index](https://github.com/Typisch-Div/DSA/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/Typisch-Div/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Typisch-Div/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -714,10 +716,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Typisch-Div/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Typisch-Div/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Typisch-Div/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Lifting
 |  |
