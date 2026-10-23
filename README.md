@@ -206,6 +206,7 @@
 | [0941-valid-mountain-array](https://github.com/Typisch-Div/DSA/tree/master/0941-valid-mountain-array) |
 | [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1094-car-pooling](https://github.com/Typisch-Div/DSA/tree/master/1094-car-pooling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Typisch-Div/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Typisch-Div/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Typisch-Div/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -265,6 +266,7 @@
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/Typisch-Div/DSA/tree/master/1094-car-pooling) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Typisch-Div/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Typisch-Div/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
@@ -275,6 +277,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Typisch-Div/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Typisch-Div/DSA/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Typisch-Div/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1094-car-pooling](https://github.com/Typisch-Div/DSA/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Typisch-Div/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Typisch-Div/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Typisch-Div/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -550,6 +553,7 @@
 | [0743-network-delay-time](https://github.com/Typisch-Div/DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Typisch-Div/DSA/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1094-car-pooling](https://github.com/Typisch-Div/DSA/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -755,6 +759,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/Typisch-Div/DSA/tree/master/0068-text-justification) |
 | [0832-flipping-an-image](https://github.com/Typisch-Div/DSA/tree/master/0832-flipping-an-image) |
+| [1094-car-pooling](https://github.com/Typisch-Div/DSA/tree/master/1094-car-pooling) |
 | [1603-design-parking-system](https://github.com/Typisch-Div/DSA/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Typisch-Div/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Typisch-Div/DSA/tree/master/1920-build-array-from-permutation) |
