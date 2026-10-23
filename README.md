@@ -380,6 +380,7 @@
 | [0684-redundant-connection](https://github.com/Typisch-Div/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Typisch-Div/DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Typisch-Div/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Typisch-Div/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
@@ -438,6 +439,7 @@
 | [0684-redundant-connection](https://github.com/Typisch-Div/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Typisch-Div/DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Typisch-Div/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Typisch-Div/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -825,11 +827,13 @@
 | [0684-redundant-connection](https://github.com/Typisch-Div/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Typisch-Div/DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Typisch-Div/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Typisch-Div/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Typisch-Div/DSA/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Typisch-Div/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -942,4 +946,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Typisch-Div/DSA/tree/master/1143-longest-common-subsequence) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Typisch-Div/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Typisch-Div/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
