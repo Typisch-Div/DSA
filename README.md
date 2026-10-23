@@ -39,6 +39,7 @@
 | [0767-reorganize-string](https://github.com/Typisch-Div/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/Typisch-Div/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Typisch-Div/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -206,6 +207,7 @@
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Typisch-Div/DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Typisch-Div/DSA/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/Typisch-Div/DSA/tree/master/0941-valid-mountain-array) |
 | [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
@@ -246,6 +248,7 @@
 | [0567-permutation-in-string](https://github.com/Typisch-Div/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Typisch-Div/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Typisch-Div/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Typisch-Div/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Typisch-Div/DSA/tree/master/1652-defuse-the-bomb) |
