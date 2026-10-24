@@ -79,6 +79,7 @@
 | [0097-interleaving-string](https://github.com/Typisch-Div/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Typisch-Div/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Typisch-Div/DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Typisch-Div/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Typisch-Div/DSA/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Typisch-Div/DSA/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Typisch-Div/DSA/tree/master/0205-isomorphic-strings) |
@@ -482,6 +483,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Typisch-Div/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Typisch-Div/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Typisch-Div/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Typisch-Div/DSA/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Typisch-Div/DSA/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/Typisch-Div/DSA/tree/master/0213-house-robber-ii) |
@@ -847,6 +849,7 @@
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Typisch-Div/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Typisch-Div/DSA/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Typisch-Div/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Typisch-Div/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
