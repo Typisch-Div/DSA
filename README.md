@@ -229,6 +229,7 @@
 | [0904-fruit-into-baskets](https://github.com/Typisch-Div/DSA/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/Typisch-Div/DSA/tree/master/0941-valid-mountain-array) |
+| [0948-bag-of-tokens](https://github.com/Typisch-Div/DSA/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Typisch-Div/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Typisch-Div/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
@@ -298,6 +299,7 @@
 | [0826-most-profit-assigning-work](https://github.com/Typisch-Div/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
+| [0948-bag-of-tokens](https://github.com/Typisch-Div/DSA/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Typisch-Div/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Typisch-Div/DSA/tree/master/1094-car-pooling) |
@@ -577,6 +579,7 @@
 | [0826-most-profit-assigning-work](https://github.com/Typisch-Div/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/Typisch-Div/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0948-bag-of-tokens](https://github.com/Typisch-Div/DSA/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
 | [2000-reverse-prefix-of-word](https://github.com/Typisch-Div/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Typisch-Div/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -733,6 +736,7 @@
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0948-bag-of-tokens](https://github.com/Typisch-Div/DSA/tree/master/0948-bag-of-tokens) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Typisch-Div/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Typisch-Div/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Typisch-Div/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
