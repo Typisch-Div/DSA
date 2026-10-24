@@ -365,6 +365,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Typisch-Div/DSA/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Typisch-Div/DSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Typisch-Div/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -437,6 +438,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Typisch-Div/DSA/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Typisch-Div/DSA/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Typisch-Div/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -929,6 +931,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Typisch-Div/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Typisch-Div/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Typisch-Div/DSA/tree/master/0450-delete-node-in-a-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
