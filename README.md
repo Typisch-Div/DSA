@@ -169,6 +169,7 @@
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Typisch-Div/DSA/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Typisch-Div/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
@@ -477,6 +478,7 @@
 | [0053-maximum-subarray](https://github.com/Typisch-Div/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Typisch-Div/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Typisch-Div/DSA/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Typisch-Div/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Typisch-Div/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Typisch-Div/DSA/tree/master/0097-interleaving-string) |
@@ -658,6 +660,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Typisch-Div/DSA/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Typisch-Div/DSA/tree/master/0174-dungeon-game) |
