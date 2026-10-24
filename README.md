@@ -121,6 +121,7 @@
 | [2315-count-asterisks](https://github.com/Typisch-Div/DSA/tree/master/2315-count-asterisks) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Typisch-Div/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Typisch-Div/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2409-count-days-spent-together](https://github.com/Typisch-Div/DSA/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Typisch-Div/DSA/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Typisch-Div/DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Typisch-Div/DSA/tree/master/3019-number-of-changing-keys) |
@@ -620,6 +621,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Typisch-Div/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Typisch-Div/DSA/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Typisch-Div/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Typisch-Div/DSA/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/Typisch-Div/DSA/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Typisch-Div/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Typisch-Div/DSA/tree/master/2769-find-the-maximum-achievable-number) |
