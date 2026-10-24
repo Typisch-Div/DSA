@@ -187,6 +187,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Typisch-Div/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Typisch-Div/DSA/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/Typisch-Div/DSA/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/Typisch-Div/DSA/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Typisch-Div/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Typisch-Div/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -487,6 +488,7 @@
 | [0131-palindrome-partitioning](https://github.com/Typisch-Div/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Typisch-Div/DSA/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Typisch-Div/DSA/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/Typisch-Div/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Typisch-Div/DSA/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Typisch-Div/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
