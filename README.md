@@ -41,6 +41,7 @@
 | [0692-top-k-frequent-words](https://github.com/Typisch-Div/DSA/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Typisch-Div/DSA/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/Typisch-Div/DSA/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/Typisch-Div/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Typisch-Div/DSA/tree/master/0904-fruit-into-baskets) |
@@ -109,6 +110,7 @@
 | [0696-count-binary-substrings](https://github.com/Typisch-Div/DSA/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Typisch-Div/DSA/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/Typisch-Div/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Typisch-Div/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Typisch-Div/DSA/tree/master/1021-remove-outermost-parentheses) |
