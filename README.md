@@ -211,6 +211,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Typisch-Div/DSA/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Typisch-Div/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/Typisch-Div/DSA/tree/master/0403-frog-jump) |
@@ -532,6 +533,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Typisch-Div/DSA/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/Typisch-Div/DSA/tree/master/0343-integer-break) |
+| [0376-wiggle-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Typisch-Div/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Typisch-Div/DSA/tree/master/0403-frog-jump) |
@@ -757,6 +759,7 @@
 | [0134-gas-station](https://github.com/Typisch-Div/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Typisch-Div/DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Typisch-Div/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0376-wiggle-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Typisch-Div/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0670-maximum-swap](https://github.com/Typisch-Div/DSA/tree/master/0670-maximum-swap) |
