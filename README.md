@@ -227,6 +227,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Typisch-Div/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0622-design-circular-queue](https://github.com/Typisch-Div/DSA/tree/master/0622-design-circular-queue) |
+| [0658-find-k-closest-elements](https://github.com/Typisch-Div/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Typisch-Div/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Typisch-Div/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Typisch-Div/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -285,6 +286,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Typisch-Div/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Typisch-Div/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Typisch-Div/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Typisch-Div/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -310,6 +312,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/Typisch-Div/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Typisch-Div/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Typisch-Div/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Typisch-Div/DSA/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/Typisch-Div/DSA/tree/master/0826-most-profit-assigning-work) |
@@ -590,6 +593,7 @@
 | [0443-string-compression](https://github.com/Typisch-Div/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Typisch-Div/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Typisch-Div/DSA/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Typisch-Div/DSA/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Typisch-Div/DSA/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Typisch-Div/DSA/tree/master/0763-partition-labels) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Typisch-Div/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -636,6 +640,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Typisch-Div/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Typisch-Div/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Typisch-Div/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Typisch-Div/DSA/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Typisch-Div/DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Typisch-Div/DSA/tree/master/0767-reorganize-string) |
@@ -724,6 +729,7 @@
 | [0162-find-peak-element](https://github.com/Typisch-Div/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Typisch-Div/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Typisch-Div/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Typisch-Div/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Typisch-Div/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Typisch-Div/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Typisch-Div/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
