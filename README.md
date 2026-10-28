@@ -203,6 +203,7 @@
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Typisch-Div/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Typisch-Div/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Typisch-Div/DSA/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/Typisch-Div/DSA/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Typisch-Div/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
@@ -524,6 +525,7 @@
 | [0174-dungeon-game](https://github.com/Typisch-Div/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Typisch-Div/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Typisch-Div/DSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Typisch-Div/DSA/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Typisch-Div/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Typisch-Div/DSA/tree/master/0322-coin-change) |
@@ -701,6 +703,7 @@
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Typisch-Div/DSA/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Typisch-Div/DSA/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/Typisch-Div/DSA/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Typisch-Div/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Typisch-Div/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0832-flipping-an-image](https://github.com/Typisch-Div/DSA/tree/master/0832-flipping-an-image) |
