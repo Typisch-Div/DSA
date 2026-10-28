@@ -245,6 +245,7 @@
 | [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/Typisch-Div/DSA/tree/master/1002-find-common-characters) |
+| [1051-height-checker](https://github.com/Typisch-Div/DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Typisch-Div/DSA/tree/master/1094-car-pooling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Typisch-Div/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Typisch-Div/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -314,6 +315,7 @@
 | [0948-bag-of-tokens](https://github.com/Typisch-Div/DSA/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Typisch-Div/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1051-height-checker](https://github.com/Typisch-Div/DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Typisch-Div/DSA/tree/master/1094-car-pooling) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Typisch-Div/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Typisch-Div/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -983,6 +985,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Typisch-Div/DSA/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/Typisch-Div/DSA/tree/master/1051-height-checker) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -1045,4 +1048,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Typisch-Div/DSA/tree/master/0062-unique-paths) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Typisch-Div/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
