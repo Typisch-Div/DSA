@@ -250,6 +250,7 @@
 | [0986-interval-list-intersections](https://github.com/Typisch-Div/DSA/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Typisch-Div/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/Typisch-Div/DSA/tree/master/1002-find-common-characters) |
+| [1035-uncrossed-lines](https://github.com/Typisch-Div/DSA/tree/master/1035-uncrossed-lines) |
 | [1051-height-checker](https://github.com/Typisch-Div/DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Typisch-Div/DSA/tree/master/1094-car-pooling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Typisch-Div/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -546,6 +547,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/Typisch-Div/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
+| [1035-uncrossed-lines](https://github.com/Typisch-Div/DSA/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Typisch-Div/DSA/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
@@ -1049,6 +1051,7 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1035-uncrossed-lines](https://github.com/Typisch-Div/DSA/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Typisch-Div/DSA/tree/master/1143-longest-common-subsequence) |
 ## Kosaraju's Algorithm
 |  |
