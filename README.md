@@ -412,6 +412,7 @@
 | [0965-univalued-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Typisch-Div/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -450,6 +451,7 @@
 | [0965-univalued-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Typisch-Div/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -485,6 +487,7 @@
 | [0965-univalued-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Typisch-Div/DSA/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Typisch-Div/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -1001,6 +1004,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Typisch-Div/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Typisch-Div/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Typisch-Div/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Typisch-Div/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
