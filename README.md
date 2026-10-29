@@ -183,6 +183,7 @@
 | [0064-minimum-path-sum](https://github.com/Typisch-Div/DSA/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Typisch-Div/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Typisch-Div/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Typisch-Div/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Typisch-Div/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -847,6 +848,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Typisch-Div/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Typisch-Div/DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Typisch-Div/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Typisch-Div/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -921,6 +923,7 @@
 | [0039-combination-sum](https://github.com/Typisch-Div/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Typisch-Div/DSA/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Typisch-Div/DSA/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Typisch-Div/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Typisch-Div/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Typisch-Div/DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Typisch-Div/DSA/tree/master/0093-restore-ip-addresses) |
