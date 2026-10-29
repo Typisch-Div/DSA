@@ -32,6 +32,7 @@
 | [0389-find-the-difference](https://github.com/Typisch-Div/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Typisch-Div/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Typisch-Div/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Typisch-Div/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Typisch-Div/DSA/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Typisch-Div/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Typisch-Div/DSA/tree/master/0525-contiguous-array) |
@@ -221,6 +222,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Typisch-Div/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Typisch-Div/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Typisch-Div/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Typisch-Div/DSA/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Typisch-Div/DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Typisch-Div/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -357,6 +359,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Typisch-Div/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Typisch-Div/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Typisch-Div/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Typisch-Div/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -945,6 +948,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Typisch-Div/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Typisch-Div/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Typisch-Div/DSA/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 ## Tournament Sort
 |  |
