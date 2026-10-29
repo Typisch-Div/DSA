@@ -363,6 +363,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Typisch-Div/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/Typisch-Div/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Typisch-Div/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Typisch-Div/DSA/tree/master/0496-next-greater-element-i) |
@@ -397,6 +398,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Typisch-Div/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Typisch-Div/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Typisch-Div/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Typisch-Div/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0226-invert-binary-tree) |
@@ -474,6 +476,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Typisch-Div/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Typisch-Div/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Typisch-Div/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Typisch-Div/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Typisch-Div/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0226-invert-binary-tree) |
@@ -894,6 +897,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Typisch-Div/DSA/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Typisch-Div/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Typisch-Div/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Typisch-Div/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/Typisch-Div/DSA/tree/master/0622-design-circular-queue) |
@@ -1005,6 +1009,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Typisch-Div/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Typisch-Div/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Typisch-Div/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Typisch-Div/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Typisch-Div/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -1101,4 +1106,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Typisch-Div/DSA/tree/master/1051-height-checker) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Typisch-Div/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
