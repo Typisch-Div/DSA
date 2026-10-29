@@ -224,6 +224,7 @@
 | [0494-target-sum](https://github.com/Typisch-Div/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Typisch-Div/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Typisch-Div/DSA/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Typisch-Div/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Typisch-Div/DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Typisch-Div/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Typisch-Div/DSA/tree/master/0525-contiguous-array) |
@@ -360,6 +361,7 @@
 | [0234-palindrome-linked-list](https://github.com/Typisch-Div/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Typisch-Div/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Typisch-Div/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Typisch-Div/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Typisch-Div/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Typisch-Div/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -949,6 +951,7 @@
 | [0042-trapping-rain-water](https://github.com/Typisch-Div/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Typisch-Div/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Typisch-Div/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Typisch-Div/DSA/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/Typisch-Div/DSA/tree/master/0853-car-fleet) |
 ## Tournament Sort
 |  |
